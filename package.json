@@ -1,0 +1,8 @@
+{
+  "name": "tjbot-workspace",
+  "description": "Easy workspace to code TJBot",
+  "version": "1.0.0",
+  "dependencies": {
+    "tjbot": "latest"
+  }
+}
