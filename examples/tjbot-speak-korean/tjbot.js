@@ -12,7 +12,7 @@ function main() {
 
 // IMPORTANT: DO NOT CHANGE THE CODE BELOW 
 const TJBot = require('tjbot');
-const config = require('../config');
+const config = require('../../config');
 
 // obtain our hardware configuration from config.js
 var hardware = config.hardware;
