@@ -14,36 +14,36 @@ exports.credentials = {};
 // Watson Conversation
 // https://www.ibm.com/watson/developercloud/conversation.html
 exports.credentials.conversation = {
-	password: 'YPriYS6wggKa',
-	username: 'd5e9573a-316c-471b-8434-7fd2aea12f7e'
+	password: 'oDJR8NduGf4s',
+	username: '6061a241-79b0-4cdf-b783-06044a02219b'
 };
 
 // Watson Language Translator
 // https://www.ibm.com/watson/developercloud/language-translator.html
 exports.credentials.language_translator = {
-	password: 's5VdLdxcY8Zv',
-	username: '43e35dd6-952b-4383-955f-59c0243b6601'
+	password: 'nd2bDCL8yIuV',
+	username: 'e88d8ace-5117-4eba-b456-bb1c3c4fbec2'
 };
 
 // Watson Speech to Text
 // https://www.ibm.com/watson/developercloud/speech-to-text.html
 exports.credentials.speech_to_text = {
-	password: '0bbqzplRALtS',
-	username: '9e513087-9d9a-481b-ac22-0d82b7ca7166'
+	password: 'KUKhRnOyPgyS',
+	username: 'd93f8570-43ac-43b6-8da5-bedb328b5323'
 };
 
 // Watson Text to Speech
 // https://www.ibm.com/watson/developercloud/text-to-speech.html
 exports.credentials.text_to_speech = {
-	password: 'ZJLuyruG4rKx',
-	username: 'e4b3f5e9-4c84-4ab4-9fd5-6f6622c243dd'
+	password: 'QjIOCZNYMF7h',
+	username: '665075c0-028d-4f88-817b-21d105b5188b'
 };
 
 // Watson Tone Analyzer
 // https://www.ibm.com/watson/developercloud/tone-analyzer.html
 exports.credentials.tone_analyzer = {
-    password: '4aQn6OPjJLVq',
-    username: '3dbdcfd8-166d-4baa-9dc7-9d913b00cdf6'
+    password: '2vaUiKbS4SLm',
+    username: '6569dc4c-fcf7-4f45-926e-0807857d3540'
 };
 
 // Watson Visual Recognition
